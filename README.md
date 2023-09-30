@@ -1,7 +1,7 @@
 # Avalanche_Project3
 
 
-# Token.sol
+## Token.sol
 
 This Repo is made for an Assessments for the eth-beginner project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my ERC20 Tokens,with mentioned requirements.
 Functionality
@@ -12,8 +12,8 @@ Any user can burn tokens
 Description
 This Repository consists of a contract named function.sol written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This contract is basically a ERC20 token which have various functions and token Variables like name ,symbol ,digit and explain how can we interact with this contract using various functions.
 
-Getting Started
-Executing program
+## Getting Started
+### Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., TokenContract.sol). Copy and paste the following code into the file:
@@ -107,8 +107,8 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the function.
 
-Authors
+## Authors
 CodeBlocker52 (https://github.com/CodeBlocker52 )
 
-License
+## License
 This project is licensed under the MIT- see the LICENSE.md file for details
