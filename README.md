@@ -3,7 +3,7 @@
 
 ## Token.sol
 
-This Repo is made for an Assessments for the eth-beginner project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my ERC20 Tokens,with mentioned requirements.
+This Repo is made for an Assessments for the eth-avax Intermediate project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my ERC20 Tokens,with mentioned requirements.
 Functionality
 Only contract owner should be able to mint tokens
 Any user can transfer tokens
