@@ -11,6 +11,9 @@ contract ERC20 is IERC20 {
     string public symbol = "MTK";
     uint8 public decimals = 18;
     address public owner;
+constructor(){
+owner=msg.sender;
+}
 
     function transfer(address recipient, uint256 amount)
         external
